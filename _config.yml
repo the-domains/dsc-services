@@ -6,9 +6,9 @@ color:
   saturation: 0.49954079603776336
   rhythmicContrast: 0.503592899767682
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: DSC Services
